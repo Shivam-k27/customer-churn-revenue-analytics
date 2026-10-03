@@ -1,4 +1,4 @@
-# Customer Churn Analytics Dashboard
+# Customer Churn Revenue Analytics Dashboard
 
 ## Project Overview
 
