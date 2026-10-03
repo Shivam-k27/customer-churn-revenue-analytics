@@ -119,8 +119,7 @@ The Power BI dashboard provides an interactive view of customer churn, revenue, 
 - Customers by Contract Type
 - Top Cities by Revenue
 
-![Executive Overview](Screenshots/Page1_Executive_Overview.png)
-
+![Executive Overview](./Screenshots/Page1_Executive_Overview.png)
 ---
 
 ## Churn Intelligence
@@ -131,7 +130,7 @@ The Power BI dashboard provides an interactive view of customer churn, revenue, 
 - Support Tickets vs Churn
 - Churn by Payment Method
 
-![Churn Intelligence](Screenshots/Page2_Churn_Intelligence.png)
+![Churn Intelligence](./Screenshots/Page2_Churn_Intelligence.png)
 
 ---
 
@@ -143,7 +142,8 @@ The Power BI dashboard provides an interactive view of customer churn, revenue, 
 - Segment-wise Churn
 - Top Customers Analysis
 
-![Customer Segmentation](Screenshots/Page3_Customer_Segmentation.png)
+![Customer Segmentation](./Screenshots/Page3_Customer_Segmentation.png)
+
 
 ---
 
@@ -155,7 +155,7 @@ The Power BI dashboard provides an interactive view of customer churn, revenue, 
 - Revenue Risk by Plan Type
 - High-Risk Customer Analysis
 
-![Advanced Churn Intelligence](Screenshots/Page4_Advanced_Churn_Intelligence.png)
+![Advanced Churn Intelligence](./Screenshots/Page4_Advanced_Churn_Intelligence.png)
 
 # Key Business Insights
 
