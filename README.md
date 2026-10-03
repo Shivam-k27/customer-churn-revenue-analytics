@@ -62,6 +62,9 @@ Customer-Churn-Analytics-Dashboard/
 ├── Customer_churn_Analytics.pbix
 │
 └── README.md
+```
+
+
 
 # SQL Analysis
 
@@ -120,6 +123,7 @@ The Power BI dashboard provides an interactive view of customer churn, revenue, 
 - Top Cities by Revenue
 
 ![Executive Overview](./Screenshots/Page1_Executive_Overview.png)
+
 ---
 
 ## Churn Intelligence
@@ -144,7 +148,6 @@ The Power BI dashboard provides an interactive view of customer churn, revenue, 
 
 ![Customer Segmentation](./Screenshots/Page3_Customer_Segmentation.png)
 
-
 ---
 
 ## Advanced Churn Intelligence
@@ -156,7 +159,6 @@ The Power BI dashboard provides an interactive view of customer churn, revenue, 
 - High-Risk Customer Analysis
 
 ![Advanced Churn Intelligence](./Screenshots/Page4_Advanced_Churn_Intelligence.png)
-
 # Key Business Insights
 
 - Monthly contract customers show higher churn compared with customers on longer-term contracts.
